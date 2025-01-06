@@ -15,7 +15,8 @@ Este proyecto es una aplicación que utiliza una Pokedex para mostrar imagenes y
   
 ## Publicacion en Tienda Uptodown
 
-![Screenshot 2025-01-06 124345](https://github.com/user-attachments/assets/027bd9b2-44e2-46d8-bafb-58d9ddc44b6c)
+![Screenshot 2025-01-06 130726](https://github.com/user-attachments/assets/8886f4f2-72d5-43fe-94d6-a5adc533ee76)
+
 
 ## Link para probar el apk 
 
