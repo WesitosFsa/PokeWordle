@@ -19,4 +19,4 @@ Este proyecto es una aplicación que utiliza una Pokedex para mostrar imagenes y
 
 ## Link para probar el apk 
 
-[Descargar archivo]((https://github.com/WesitosFsa/PokeWordle/blob/master/aplicacionpoke.apk))
+[Descargar archivo](https://github.com/WesitosFsa/PokeWordle/blob/master/aplicacionpoke.apk)
